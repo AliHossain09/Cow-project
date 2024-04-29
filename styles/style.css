@@ -1,0 +1,110 @@
+@import url("https://fonts.googlea pis.com/css?family=Lato:ital,wght 00,400;0,700;0,900;1,100;1,400;1,7 00;1,9006display=swop");
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+}
+
+.pppp {
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin: 15px;
+}
+
+nav li a {
+    text-decoration: none;
+}
+
+.hero {
+    background-image: url('../images/cow.jpg');
+    background-size: cover;
+    background-position: bottom center;
+    height: 100vh;
+}
+
+
+
+.hero h1 {
+    color: azure;
+    font-size: 100px;
+    text-align: center;
+    font-weight: 900;
+    font-family: cursive;
+    word-spacing: 10px;
+    letter-spacing: 30px;
+    padding-top: 60px;
+}
+
+.zero,
+#www,
+#eee,
+#rrr,
+.mnb  {
+    width: 80%;
+    margin: 60px auto;
+    border-width: 15px;
+    border-color: yellow;
+    border-style: groove;
+    background: linear-gradient(50deg, pink, rgb(122, 122, 244), red, rgb(32, 192, 32));
+    padding: 60px;
+    box-shadow: 10px 10px 10px;
+}
+
+.zero h2,
+#zzz h2,
+.mnb h1 {
+    text-align: center;
+    font-size: 48px;
+    border-color: yellow;
+    border-style: groove;
+    border-width: 2px;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    padding-bottom: 30px;
+    margin-bottom: 60px;
+    color: rgb(0, 0, 0);
+    text-shadow: 10px 10px 10px;
+}
+
+.zero p,
+.mnb p {
+    font-size: 17px;
+    line-height: 2em;
+}
+
+.mmm {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.mmm div {
+    min-width: 50px;
+}
+
+.mmm img {
+    width: 100%;
+}
+
+#QQPP {
+    text-align: center;
+    font-size: 28px;
+}
+
+ul li a {
+    background: rgb(255, 255, 255);
+    color: black;
+}
+
+ul li a:hover {
+    background: rgb(255, 0, 0);
+    color: rgb(38, 0, 255);
+    transition: 0.5s;
+    padding: 1px;
+    border-radius: 4px;
+}
